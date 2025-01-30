@@ -1,0 +1,3 @@
+# Soft dependencies extracted from modules themselves.
+softdep softdog pre: mtk_wdt
+softdep mt6789_dcm pre:mtk_dcm.ko
